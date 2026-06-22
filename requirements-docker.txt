@@ -1,0 +1,13 @@
+ultralytics
+opencv-python-headless
+fastapi
+uvicorn
+python-multipart
+streamlit
+pandas
+matplotlib
+easyocr
+onnx
+onnxruntime
+pillow
+numpy

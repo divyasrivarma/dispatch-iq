@@ -1,0 +1,12 @@
+venv/
+runs/
+outputs/
+uploads/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.cache/
+*.mp4
+*.avi
+*.mov
